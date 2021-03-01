@@ -1,6 +1,6 @@
 {
   "name": "@pragli/audio-speaker",
-  "version": "1.5.1",
+  "version": "1.5.2",
   "description": "Output audio data to speaker in browser/node",
   "main": "stream.js",
   "scripts": {
@@ -45,8 +45,7 @@
     "wavefont": "^1.2.1"
   },
   "optionalDependencies": {
-    "audio-sink": "^1.0.2",
-    "speaker": "^0.3.0"
+    "audio-sink": "^1.0.2"
   },
   "dependencies": {
     "audio-through": "^2.2.3",
